@@ -11,7 +11,7 @@ We're Efficiency Exchange (EEx) and we're out to build the world's best
 energy management tool. We're using the best, most accessible technology the
 web has to offer and focusing on the very real needs of Chinese factories.
 We want to work with a sharp front end developer like you. We are guided by a
-set of principals that start with being user-oriented; we say “factory first”.
+set of principals that start with being user-oriented; we say "factory first".
 Our work is an outward expression of who we are and we strive to follow the
 golden rule. We don't ship software we wouldn't want to use ourselves.
 
